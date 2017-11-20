@@ -26,3 +26,4 @@ git commit --amend
 git rebase -i <commitId>
 git mv
 git rm
+git log --graph --oneline
