@@ -24,3 +24,8 @@ git reset --hard
 git reset HEAD^
 git commit --amend
 git rebase -i <commitId>
+git log --graph --oneline
+
+asdfasdfa
+asdfasdfas
+asdfasddfas
