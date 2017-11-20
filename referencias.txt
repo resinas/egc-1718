@@ -3,3 +3,4 @@ Referencias:
 
 http://git-scm.org
 https://onlywei.github.io/explain-git-with-d3/#freeplay
+http://1984.lsi.us.es/wiki-egc/index.php/Gesti%C3%B3n_de_versiones_con_git
