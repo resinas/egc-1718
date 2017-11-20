@@ -1,0 +1,26 @@
+Comandos de git utilizados:
+-------------------
+
+git init
+git status
+git add <file>
+git commit
+git log
+git log --oneline
+git checkout -- README
+git commit -a
+git annotate <file>
+git show <commitId>
+git branch
+git checkout -b <branchName>
+git checkout <branchName>
+git merge <branchName>
+git remote add <remoteName> <url>
+git push -u <remoteName> <branchName>
+git push
+git pull
+git checkout <fileName>
+git reset --hard
+git reset HEAD^
+git commit --amend
+git rebase -i <commitId>
